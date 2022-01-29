@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/icons8-database-administrator-48.png</file>
+    <file>icons/icons8-logo-48.png</file>
+    <file>icons/icons8-restore-down-32.png</file>
+    <file>icons/icons8-restore-down-48.png</file>
+    <file>icons/icons8-search-30.png</file>
+    <file>icons/icons8-facebook-circled-30.png</file>
+    <file>icons/icons8-source-code-30.png</file>
+    <file>icons/icons8-timesheet-30.png</file>
+    <file>icons/icons8-menu-30.png</file>
+    <file>icons/icons8-database-view-30.png</file>
+    <file>icons/icons8-database-50.png</file>
+    <file>icons/icons8-category-30.png</file>
+    <file>icons/icons8-classroom-30.png</file>
+    <file>icons/icons8-close-32.png</file>
+    <file>icons/icons8-group.gif</file>
+    <file>icons/icons8-group-30.png</file>
+    <file>icons/icons8-maximize-button-32.png</file>
+    <file>icons/icons8-personal-trainer-30.png</file>
+    <file>icons/icons8-staff-30.png</file>
+    <file>icons/icons8-student-male-30.png</file>
+    <file>icons/icons8-subject-30.png</file>
+    <file>icons/icons8-subtract-32.png</file>
+    <file>icons8-logo-48.ico</file>
+    <file>icons/database-reload.png</file>
+    <file>icons/Network-Ip-Address-icon.png</file>
+    <file>icons/PinClipart.com_ship-clipart-black-and_1303682.png</file>
+    <file>icons/pngkey.com-avatar-png-3012756.png</file>
+  </qresource>
+</RCC>
